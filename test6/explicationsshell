@@ -1,8 +1,8 @@
-EXERCI1
+  EXERCI1
 mkdir jaime_le_shell 
-cd jaime_le_shell
-touch test1 test5
-mkdir test2 test3 test4 test6
+  cd jaime_le_shell
+  touch test1 test5
+  mkdir test2 test3 test4 test6
 exercice2
 
 cd..
